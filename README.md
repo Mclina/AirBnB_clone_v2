@@ -144,6 +144,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 This work was forked from the repository written by:
 
 Ezra Nobrega
+
 Justin Majetich
 
 Improved by:
